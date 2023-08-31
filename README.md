@@ -4,8 +4,6 @@
 
 	![image](https://github.com/2142692/concept_projet_final/assets/89608255/7e095190-2767-4997-98b6-4dd4b44f1edd)
 
-)
-)
 
 ## Défis
 ### Ce qui sera le plus dure dans ce projet ça sera probablement de connecter la télécommande à l'écran pour qu'elle soit interactif. Nous allons probablement faire quelque branchement qui se connectera à une antène et qui sera ainsi manipuler avec la télécommande.
