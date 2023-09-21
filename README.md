@@ -10,4 +10,4 @@
 Ce qui sera le plus dure dans ce projet sera probablement de faire en sorte que les formes captent biens le mouvement et le corps. Aussi, le deuxième défi sera que le décor réagissent biens au mouvement effectuée.
 
 ## Inspiration 
-[Chronaufrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
+[quantum](https://fundacjaphoton.pl/dzialalnosc-activities/quantum-space/)
