@@ -10,6 +10,4 @@
 Ce qui sera le plus dure dans ce projet sera probablement de faire en sorte que les formes captent biens le mouvement et le corps. Aussi, le deuxième défi sera que le décor réagissent biens au mouvement effectuée.
 
 ## Inspiration 
-[Jeu temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
-&
-[L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+[Chronaufrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
