@@ -8,6 +8,8 @@
 ## Maquette
 ![maquette](medias/maquette.png)
 
+Ce sera dans le siclo du grand studio.
+
 ## Défis
 
 Ce qui sera le plus dure dans ce projet sera probablement de faire en sorte que les formes captent biens le mouvement et le corps. Aussi, le deuxième défi sera que le décor réagissent biens au mouvement effectuée.
