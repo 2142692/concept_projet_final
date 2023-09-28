@@ -11,7 +11,7 @@ Max, maya, vcv rack, reaper.
 ## Maquette
 ![maquette](medias/maquette.png)
 
-Ce sera dans le siclo du grand studio.
+Ce sera dans le cyclo du grand studio.
 
 ## Défis
 
