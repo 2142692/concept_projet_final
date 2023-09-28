@@ -5,6 +5,10 @@
 
 ![mouvement](medias/mouvement.jfif) ![decor](medias/decor.jpg) ![espace](medias/espace.jpg) ![kinect](medias/capteur.jpg)
 
+## Interactivité du décor
+
+![clef](medias/clef.webp) ![horloge](medias/horloge.webp) ![code](medias/code.webp) ![nombre](medias/nombre.webp)
+
 ## Vidéo inspirante 
 [Immersive interactive](https://www.bing.com/videos/riverview/relatedvideo?q=immersive%20interactive&mid=87D071C0549660BA711287D071C0549660BA7112&ajaxhist=0)
 
