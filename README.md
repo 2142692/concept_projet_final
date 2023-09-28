@@ -18,4 +18,4 @@ Ce sera dans le siclo du grand studio.
 Ce qui sera le plus dure dans ce projet sera probablement de faire en sorte que les formes captent biens le mouvement et le corps. Aussi, le deuxième défi sera que le décor réagissent biens au mouvement effectuée.
 
 ## Inspiration 
-[quantum](https://fundacjaphoton.pl/dzialalnosc-activities/quantum-space/)
+[Quantum Space](https://fundacjaphoton.pl/dzialalnosc-activities/quantum-space/)
