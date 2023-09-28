@@ -5,6 +5,9 @@
 
 ![mouvement](medias/mouvement.jfif) ![decor](medias/decor.jpg) ![espace](medias/espace.jpg) ![kinect](medias/capteur.jpg)
 
+## Logiciel utilisé
+Max, maya, vcv rack, reaper.
+
 ## Maquette
 ![maquette](medias/maquette.png)
 
