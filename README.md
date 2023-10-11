@@ -18,8 +18,8 @@ Le bien-être.
 [Illusion](https://www.youtube.com/watch?v=rtRscfX8O44)
 
 ## Les formes
-![feu](medias/feu.jpg) ![flocon](medias/flocon.jfif) ![foret](medias/forêt.jpg) ![vent](medias/vent.jpg) ![molecule](medias/suivre.jfif) ![poisson](medias/poisson.jpg) ![eau](medias/water.jfif) 
-![eclair](medias/éclair.webp) ![vent](medias/projection.jpg)
+![feu](medias/feu.jpg) ![flocon](medias/flocon.jfif) ![foret](medias/forêt.jpg) ![vent](medias/vent.jfif) ![molecule](medias/suivre.jfif) ![poisson](medias/poisson.jpg) ![eau](medias/water.jfif) 
+![eclair](medias/éclair.webp)
 
 ## Logiciel utilisé
 Max, maya, illustrator, after effect, vcv rack, reaper.
