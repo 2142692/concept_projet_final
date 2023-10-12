@@ -7,7 +7,7 @@
 ## Thème
 Le bien-être.
 
-![mouvement](medias/mouvement.jfif) ![decor](medias/decor.jpg) ![espace](medias/espace.jpg) ![kinect](medias/capteur.jpg)
+![kinect](medias/capteur.jpg)
 
 ## Interactivité du décor
 
