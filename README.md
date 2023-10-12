@@ -7,7 +7,6 @@
 ## Thème
 Le bien-être.
 
-![kinect](medias/capteur.jpg)
 
 ## Interactivité du décor
 
@@ -23,6 +22,9 @@ Le bien-être.
 
 ## Logiciel utilisé
 Max, maya, illustrator, after effect, vcv rack, reaper.
+
+## object utilisé
+![kinect](medias/capteur.jpg)
 
 ## Maquette
 ![maquette](medias/maquette.png)
